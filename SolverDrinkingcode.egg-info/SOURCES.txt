@@ -1,0 +1,8 @@
+README.md
+setup.py
+SolverDrinkingcode.egg-info/PKG-INFO
+SolverDrinkingcode.egg-info/SOURCES.txt
+SolverDrinkingcode.egg-info/dependency_links.txt
+SolverDrinkingcode.egg-info/top_level.txt
+SolverPackage/Solver.py
+SolverPackage/__init__.py

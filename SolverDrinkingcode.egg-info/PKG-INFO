@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: SolverDrinkingcode
+Version: 1.1.0
+Summary: It's an example for uploading Python Package into Python Package Index
+Home-page: https://github.com/drinkingcode/SolverDrinkingcode
+Author: drinkingcode
+Author-email: drinkingcode@163.com
+License: UNKNOWN
+Description: ### SolverDrinkingcode
+        ```
+        It's an example for uploading Python package into Python Package Index.
+        
+        It will teach you how to upload Python package so that you can share with 
+        other people around the world.
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

@@ -33,7 +33,7 @@ classifiers: 用以告诉 Python Package Index 和 pip 关于包更多的一些�
 '''
 setuptools.setup(
     name="SolverDrinkingcode",
-    version="1.0.0",
+    version="1.1.0",
     author="drinkingcode",
     author_email="drinkingcode@163.com",
     description="It's an example for uploading Python Package into Python Package Index",
