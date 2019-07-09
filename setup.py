@@ -39,7 +39,7 @@ setuptools.setup(
     description="It's an example for uploading Python Package into Python Package Index",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/drinkingcode/SolverDrinkingcode",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",  #
